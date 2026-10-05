@@ -3,4 +3,4 @@ Cartão Pessoal feito em HTML com CSS e JavaScript por nicolaubanana-dev.
 
 ## 🔗 Acesse o Projeto
 Clique no link abaixo para ver o site funcionando:
-👉 [Visualizar Cartão Pessoal](https://github.io)
+👉 [Visualizar Cartão Pessoal]([https://github.io](https://nicolaubanana-dev.github.io/Cart-o-Pessoal-HTML/))
