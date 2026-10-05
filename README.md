@@ -1,7 +1,7 @@
 # Cartão Pessoal HTML
 #### Cartão Pessoal feito em HTML com CSS e JavaScript por nicolaubanana-dev.
 
-🟡 $$\color{yellow}\text{JavaScript: 74}$$%
+🟡 $$\color{yellow}\text{JavaScript: 74.4}$$%
 
 🟣 $$\color{purple}\text{CSS: 15.4}$$%
 
