@@ -8,7 +8,7 @@
 🔴 $$\color{red}\text{HTML: 10.2}$$%
 
 ## 🔗 Acesse o Projeto
-Clique no link abaixo para ver o site funcionando:
+### Clique no link abaixo para ver o site funcionando:
 👉 [Visualizar Cartão Pessoal](https://nicolaubanana-dev.github.io/Cart-o-Pessoal-HTML/)
 
 ![Preview do Cartão](image2.png)
