@@ -12,7 +12,7 @@
 <div align="center">
 
 ### Clique no link abaixo para ver o site funcionando:
-👉 [Visualizar Cartão Pessoal](https://nicolaubanana-dev.github.io/Cart-o-Pessoal-HTML/) 👈
+👉 [Visualizar Cartão Pessoal](https://nicolaubanana-dev.github.io/Card-Pessoal-HTML/) 👈
 
 </div>
 
