@@ -1,9 +1,9 @@
 # Cartão Pessoal HTML
 #### Cartão Pessoal feito em HTML com CSS e JavaScript por nicolaubanana-dev.
 
-##🟡 $$\color{yellow}\text{JavaScript: 74%}$$
-##🟣 $$\color{purple}\text{CSS: 15.4%}$$
-##🔴 $$\color{red}\text{HTML: 10.2%}$$
+#🟡 $$\color{yellow}\text{JavaScript: 74%}$$
+#🟣 $$\color{purple}\text{CSS: 15.4%}$$
+#🔴 $$\color{red}\text{HTML: 10.2%}$$
 
 ## 🔗 Acesse o Projeto
 Clique no link abaixo para ver o site funcionando:
