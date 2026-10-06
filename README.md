@@ -18,6 +18,6 @@
 
 ---
 
-#### Versão Atual do código: 1.22
+**Versão Atual do código: 1.22**
 
 </div>
