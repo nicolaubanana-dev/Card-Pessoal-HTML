@@ -7,7 +7,7 @@
 
 🔴 $$\color{red}\text{HTML: 10.2}$$%
 
-🟢 $$\color{red}\text{Porcentagem Atual do Projeto: 100}$$%
+🟢 $$\color{green}\text{Porcentagem Atual do Projeto: 100}$$%
 
 ## 🔗 Acesse o Projeto
 
