@@ -4,14 +4,14 @@
     box-sizing: border-box;
 
 }
-
+// fonte
 @font-face {
   font-family: 'PressStart2P-Regular';
   src: url('./PressStart2P-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
-
+// principal
 body {
     min-height: 100vh;
     display: grid;
@@ -22,7 +22,7 @@ body {
     background: linear-gradient(135deg, #fce303, #ff0000);
 
 }
-
+// card principal
 .card {
     background: #ffffff;
     width: 420px;
