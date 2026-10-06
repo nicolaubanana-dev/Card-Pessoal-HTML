@@ -18,6 +18,6 @@
 
 ---
 
-**Versão Atual do código: 1.22**
+$$\color{gray}\text{VERSÃO ATUAL DO CÓDIGO: 1.22}$$%
 
 </div>
