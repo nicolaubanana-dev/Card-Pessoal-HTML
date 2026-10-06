@@ -17,3 +17,5 @@
 </div>
 
 ![Preview do Cartão](image2.png)
+
+---
