@@ -1,7 +1,11 @@
 # Cartão Pessoal HTML
 #### Cartão Pessoal feito com HTML, CSS e JavaScript por nicolaubanana-dev.
 
-|🟡 $$\color{yellow}\text{JavaScript: 74.4}$$% |🟣 $$\color{purple}\text{CSS: 15.4}$$% |🔴 $$\color{red}\text{HTML: 10.2}$$% |
+|🟡 $$\color{yellow}\text{JavaScript: 74.4}$$% |
+
+|🟣 $$\color{purple}\text{CSS: 15.4}$$% |
+
+|🔴 $$\color{red}\text{HTML: 10.2}$$% |
 
 🟢 $$\color{green}\text{Porcentagem Atual do Projeto: 100}$$%
 
