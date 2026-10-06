@@ -14,10 +14,10 @@
 ### Clique no link abaixo para ver o site funcionando:
 👉 [Visualizar Cartão Pessoal](https://nicolaubanana-dev.github.io/Card-Pessoal-HTML/) 👈
 
-</div>
-
 ![Preview do Cartão](image2.png)
 
 ---
 
 #### Versão Atual do código: 1.22
+
+</div>
