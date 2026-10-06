@@ -19,3 +19,5 @@
 ![Preview do Cartão](image2.png)
 
 ---
+
+#### Versão Atual do código: 1.22
